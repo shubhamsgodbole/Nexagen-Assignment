@@ -1,7 +1,13 @@
 # Nexagen-Assignment
 Assignment for an internship application (Nexagen)
 
+# Reasons for using particular approaches
 
+Using IMAP over POP3: 
+Secure, Multiple device access, Faster, Syncs across devices
+
+Using PostgreSQL over SQLite:
+Better scalability, more flexibility
 
 # EmailClassifier code segment explanation
 The EmailClassifier class has been created to classify emails into predefined categories: promotions, work, finance, personal, etc., based on subject and body content.
