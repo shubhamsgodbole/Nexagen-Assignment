@@ -9,6 +9,14 @@ Secure, Multiple device access, Faster, Syncs across devices
 Using PostgreSQL over SQLite:
 Better scalability, more flexibility
 
+# Video Links
+Link to quick demo (watch on 1.2x speed): https://www.loom.com/share/443e02e4a0ff4011a6e7fa6bddfdd5e0?sid=d3f84ed9-32a8-4286-95cc-7bdd1c22cc3b
+
+Link to detailed explanation of code (watch on 1.2x speed): https://www.loom.com/share/5b217bb1d9f54450bbc68051a78426d2?sid=7286ce3c-2c8c-47fd-ac37-19918d57d2be
+
+# Nexagen-Assignment
+Assignment for an internship application (Nexagen)
+
 # EmailClassifier code segment explanation
 The EmailClassifier class has been created to classify emails into predefined categories: promotions, work, finance, personal, etc., based on subject and body content.
 
